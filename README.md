@@ -42,12 +42,15 @@ We use this categorical data encoding technique when the features are nominal(do
 ![image](https://github.com/Meenu2823/EXNO-3-DS/assets/139416219/4836ae23-c274-40f4-a0c3-31926d5a0441)
 ![image](https://github.com/Meenu2823/EXNO-3-DS/assets/139416219/3f355e85-728e-489c-af3e-eb9f3d16a4f9)
 ![image](https://github.com/Meenu2823/EXNO-3-DS/assets/139416219/e3763cac-0fc2-482b-8392-8bbec4051cba)
-
-
-
+![image](https://github.com/Meenu2823/EXNO-3-DS/assets/139416219/e2188dc7-8d13-4bd6-b52c-810d44d384f4)
+![image](https://github.com/Meenu2823/EXNO-3-DS/assets/139416219/c65c677f-509d-4376-ac3d-76afb7a792b2)
+![image](https://github.com/Meenu2823/EXNO-3-DS/assets/139416219/13a894c2-e6d0-41f8-b023-3d7771e0a873)
+![image](https://github.com/Meenu2823/EXNO-3-DS/assets/139416219/52e32631-e849-4523-86c7-98b83d0cd744)
+![image](https://github.com/Meenu2823/EXNO-3-DS/assets/139416219/12e085bc-ebe0-4016-bea8-00bb9223a334)
+![image](https://github.com/Meenu2823/EXNO-3-DS/assets/139416219/00329f1e-cfd8-4d76-acd1-cb81b4dc26f0)
 
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+       Thus,the Feature Encoding and Transformation process has been performed on the given data.
 
        
